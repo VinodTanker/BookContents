@@ -2,7 +2,7 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+First time trying stuffs out!
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
