@@ -105,7 +105,7 @@ namespace Section3_4
              */
             int someInt = 0;
             //I print 0 through 10
-            //int someInt = 3; //starts at 3
+            someInt = 3; //starts at 3
             //int someInt = 11; //this won't print
             while (someInt < 10)
             {

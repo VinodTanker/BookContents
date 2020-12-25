@@ -33,7 +33,10 @@ class WhiteSpace
      * for instance after void and after int
      * the function works, it's just a bit difficult to read.
      */
-    void MyOtherFunction(){int i = 0;while(i<10){System.Console.Write(i);i++;}}
+    void MyOtherFunction() {
+        int i = 0; while (i < 10) {
+            System.Console.Write(i); i++; } 
+    }
     #endregion
     #region Chapter 3.7.1 Code Style
     /*
@@ -62,12 +65,12 @@ class WhiteSpace
      */
 
     void SomeFunction() {
-        // Some Code here...
+        
     }
 
     void SomeOtherFunction()
     {
-        // Some Other Code here...
+        
     }
     #endregion
 }
